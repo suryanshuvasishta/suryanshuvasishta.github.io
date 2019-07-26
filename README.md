@@ -1,4 +1,6 @@
 ## Suryanshu Vasishta
+- MBA (2018) Fore School of Management, New Delhi
+- R, SQL, Python, Tableau
 
 You can use the [editor on GitHub](https://github.com/suryanshuvasishta/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
