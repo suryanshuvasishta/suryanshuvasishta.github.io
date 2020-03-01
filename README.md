@@ -4,6 +4,6 @@
 ## [Maruti Suzuki](https://www.marutisuzuki.com/) - MBA Summer Internship
 
 # Education
-## [FORE School of Management](https://www.fsm.ac.in/), New Delhi
-## [Shaheed Bhagat Singh College](https://www.sbsc.in/), University of Delhi
-## [Welham Boys' School](https://www.welhamboys.org/), Dehradun
+## [FORE School of Management, New Delhi](https://www.fsm.ac.in/)
+## [Shaheed Bhagat Singh College, University of Delhi](https://www.sbsc.in/)
+## [Welham Boys' School, Dehradun](https://www.welhamboys.org/)
