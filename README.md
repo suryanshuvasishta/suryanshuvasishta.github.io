@@ -1,6 +1,6 @@
 # Work Experience
-## BT - Business Intelligence Specialist (May 2020 - Present)
-## BT - Management Trainee (May 2018 - May 2020)
+## [BT](https://www.btplc.com/Thegroup/) - Business Intelligence Specialist (May 2020 - Present)
+## [BT](https://www.btplc.com/Thegroup/) - Management Trainee (May 2018 - May 2020)
 ## Maruti Suzuki - MBA Summer Internship
 
 # Education
